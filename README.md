@@ -1,4 +1,4 @@
-**Dashboard**
+**Dashboard\n**
 This project demonstrates the integration of GPS, speedometer (IR sensor), fuel sensor, and GSM module on a Raspberry Pi. The system provides real-time updates of speed and location (latitude and longitude) and sends this data via SMS using the GSM module. It also monitors the fuel level and triggers a low-fuel warning.
 
 **Features:**
